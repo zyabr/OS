@@ -1,6 +1,7 @@
 Результаты первой задачи
 
-![image](https://github.com/zyabr/OS/assets/114185985/d1fa0351-03e2-41ba-8cdf-3a8a922870f8)
+![image](https://github.com/zyabr/OS/assets/114185985/d8707603-a2d9-4b99-bc8c-b0923ea0b290)
+
 
 Резульататы второй задачи
 
